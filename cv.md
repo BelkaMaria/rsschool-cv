@@ -34,7 +34,7 @@ VS Code, WebStorm
 
 ## Code example:
 
-`        function Calculator () {
+        function Calculator () {
 
             this.calculate = function (str) {
 
@@ -81,7 +81,7 @@ VS Code, WebStorm
             }
 
         }
-`
+
 
 ***
 
